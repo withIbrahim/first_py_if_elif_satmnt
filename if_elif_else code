@@ -1,0 +1,27 @@
+a = int(input('Enter the number: '))
+
+
+if a >1000:
+    print(a,'is Greater than 1000')
+
+if 500 < a <1000:
+    print(a,'is under the 1000')
+    
+    if 500< a <1000 :
+        print(a,'is between 1000 and 500')
+    elif a==500:
+        print(a, 'is equal to 500')
+    
+if 50<a<500:
+    print(a, 'is under the 500 ')
+    
+    if (50<= a <=500):
+        print (a,'is between 50 and 500')
+    else:
+        
+        print (a,'less then than 50')
+
+
+elif a==500:
+    print(a, 'is equal to 500')
+    
