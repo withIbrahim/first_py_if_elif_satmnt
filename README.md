@@ -1,2 +1,2 @@
-# first_py_if_elif_satmnt
+# first_code
 First python code ( if elif else )
